@@ -53,8 +53,9 @@ analyst roles span from $184,000 to $650,000, indicating significant salary pote
 SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top 10 most common skills in 'Top-Paying Data Analyst Jobs](assets\top_skills_data_analyst.png)
-*Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
+![Top 10 most common skills in 'Top-Paying Data Analyst Jobs](https://github.com/adarshchhetri9/sql/blob/main/assets/top_skills_data_analyst.png)
+*Bar graph visualizing the salary for the top 10 salaries for data analysts with most common skills; ChatGPT generated this graph from my SQL query results
+and you can find the sql query on project_sql/2_top_paying_job_skill.sql*
 
 # What I Learned
 
